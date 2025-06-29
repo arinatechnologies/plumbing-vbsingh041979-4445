@@ -1,0 +1,22 @@
+[
+  "modern kitchen plumbing installation with chrome fixtures",
+  "commercial office building plumbing system installation",
+  "luxury bathroom renovation with waterfall shower",
+  "emergency pipe repair in residential basement",
+  "restaurant kitchen plumbing with industrial fixtures",
+  "whole home repiping project with copper pipes",
+  "emergency water heater replacement in winter",
+  "hotel plumbing system installation with multiple bathrooms",
+  "high-efficiency laundry room plumbing setup",
+  "basement flood cleanup with water extraction",
+  "outdoor plumbing for pool and landscape features",
+  "shopping center commercial plumbing installation",
+  "residential bathroom plumbing with smart fixtures",
+  "kitchen sink installation with garbage disposal",
+  "commercial building water filtration system",
+  "historic home plumbing preservation project",
+  "radiator heating system installation",
+  "sump pump installation in basement",
+  "tankless water heater maintenance",
+  "solar water heating system installation"
+]
